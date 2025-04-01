@@ -1,9 +1,5 @@
 # 🚀 Simulador Cypress
 
-<p align="center">
-  <img src="https://cypress.io/images/layouts/navbar-brand.svg" alt="Cypress Logo" width="300">
-</p>
-
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-ativo-success.svg)]()
