@@ -27,10 +27,6 @@ O Simulador Cypress é uma ferramenta criada para ajudar QAs a praticar e aprend
 
 ## 💡 Inspiração
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/6140077?v=4" alt="Walmyr Lima" width="150" style="border-radius:50%">
-</p>
-
 Este projeto foi inspirado pelo trabalho educacional de **Walmyr Lima e Silva** do **Talking About Testing**. Walmyr é uma figura reconhecida na comunidade de QA e tem contribuído significativamente para a educação em automação de testes através de seu blog, cursos e projetos de código aberto. Sua abordagem para ensinar Cypress e automação de testes foi influente no desenvolvimento deste simulador.
 
 ## 🎓 O Que Você Vai Aprender
